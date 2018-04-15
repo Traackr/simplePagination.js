@@ -1,0 +1,11 @@
+{
+    "name": "simplePagination.js",
+    "version": "1.0.0",
+    "description": "A simple jQuery pagination plugin.",
+    "url": "https://github.com/Traackr/simplePagination.js",
+    "main": "jquery.simplePagination.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Traackr/simplePagination.js"
+    }
+}
